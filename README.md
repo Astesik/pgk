@@ -1,7 +1,7 @@
-# Projekt Silnika 2D i Silnika 3D.
-Silnik 2D
-Język: C++
-Biblioteka: SFML
+# Projekt Silnika 2D i Silnika 3D.</br>
+Silnik 2D</br>
+Język: C++</br>
+Biblioteka: SFML </br>
 SILNIK 2D - Wymagania
 - Obsługa klawiatury i myszy
 - Obsługa współrzędnych (Point2D)
